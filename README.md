@@ -29,7 +29,7 @@
 
 ### 🔥 What I'm Working On
 
-- 🔭 **[Autoreach](https://github.com/at-ana)** — An intelligent multi-agent platform automating targeted lead generation: audience definition, web scraping, enrichment, and hyper-personalized outreach campaigns.
+- 🔭 **[Autoreach](https://github.com/at-ana/AutoReach)** — An intelligent multi-agent platform automating targeted lead generation: audience definition, web scraping, enrichment, and hyper-personalized outreach campaigns.
 - 🎓 Preparing for **Master 1** (Sept 2026)
 - 💼 Seeking a **24-month alternance** in Dev / Data / AI 
 
