@@ -5,9 +5,9 @@
 # Hi 👋, I'm Anas
 ### Computer Science Student | Dev · Data · AI
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/anas-atertor)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/anas-atertor-27838723b/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:anas.ate10@gmail.com)
-[![GitHub](https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/at-ana)
+
 
 </div>
 
@@ -77,25 +77,10 @@
   <img src="https://streak-stats.demolab.com?user=at-ana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=at-ana&show_icons=true&theme=dark&hide_border=false&border_radius=5" width="420"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at-ana&layout=compact&theme=dark&hide_border=false&border_radius=5" width="300"/>
-</p>
-
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🤖 **Autoreach** | Multi-agent platform: audience targeting → scraping → enrichment → personalized email campaigns | Python, CrewAI, Crawl4AI, Django, SQLite |
-| 🎮 **Multiplayer Algo Game** | Real-time multiplayer coding game with private rooms, code editor, timer & auto-scoring | Node.js, WebSocket, React |
-| ⚡ **Enedis Network Dashboard** | Automated multi-source pipeline + Power BI dashboard with 5 dynamic filters, deployed on Teams | Python, pandas, Power BI, DAX |
-| 🏢 **HR ERP System** | Full ERP for HR management: secure auth, automated payroll, dynamic PDF payslip generation | Django REST, MySQL |
-
----
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbdoKujo/AbdoKujo/output/github-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/at-ana/at-ana/output/github-snake.svg" alt="snake animation" />
 </div>
