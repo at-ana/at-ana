@@ -57,16 +57,5 @@
 
 ---
 
-### 📊 My Stats
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/at-ana/at-ana/output/github-snake.svg" alt="snake animation" /></p>
-
----
-
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/at-ana/at-ana/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
  
