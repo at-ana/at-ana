@@ -74,8 +74,7 @@
 ### 📊 My Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=at-ana&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="500" alt="streak graph"/>
-</p>
+<img src="https://raw.githubusercontent.com/at-ana/at-ana/output/github-snake.svg" alt="snake animation" /></p>
 
 ---
 
